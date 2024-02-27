@@ -21,5 +21,25 @@ main {
     aside {
         display: none;
     }
+
+    .main-head{
+        display: none;
+    }
+    
+    .main-nav{
+        display: none;
+    }
+
+    .side{
+        display: none;
+    }
+
+    .ad{
+        display: none;
+    }
+
+    .main-footer{
+        display:  none;
+    }
 }
 
